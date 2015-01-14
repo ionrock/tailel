@@ -1,0 +1,3 @@
+* tailel
+
+A simple tool for effectively watching output from commands.
