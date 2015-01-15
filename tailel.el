@@ -1,4 +1,4 @@
-;;; pytest.el --- Easy Python test running in Emacs
+;;; tailel.el --- Tail files or commands in a compilation buffer.
 
 ;; Copyright (C) 2015 Eric Larson
 
